@@ -1,1 +1,6 @@
-Dataset for reproducibility : https://zenodo.org/records/3701939
+
+*Run*
+python main.py
+
+
+Dataset : https://zenodo.org/records/3701939
