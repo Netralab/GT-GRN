@@ -11,6 +11,6 @@ To execute the code, simply run:
 python main.py
 
 
-**Data** 
+## 📊 Data
 
-https://zenodo.org/records/3701939
+🔗 **Download the data**: [https://zenodo.org/records/3701939](https://zenodo.org/records/3701939)
