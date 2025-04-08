@@ -13,4 +13,4 @@ python main.py
 
 ## 📊 Data
 
-🔗 **Download the data**: [https://zenodo.org/records/3701939](https://zenodo.org/records/3701939)
+🔗 https://zenodo.org/records/3701939
