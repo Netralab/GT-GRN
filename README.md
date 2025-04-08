@@ -1,6 +1,16 @@
+# Code for GT-GRN 
 
-*Run*
+
+---
+
+## 🚀 How to Run
+
+To execute the code, simply run:
+
+```bash
 python main.py
 
 
-Dataset : https://zenodo.org/records/3701939
+**Data** 
+
+https://zenodo.org/records/3701939
