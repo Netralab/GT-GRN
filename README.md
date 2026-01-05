@@ -8,10 +8,5 @@
 To execute the code, simply run:
 
 ```bash
+cd src/
 python main.py
-
-
-## 📊 Data
-
-https://zenodo.org/records/3701939
-
