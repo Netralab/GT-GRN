@@ -31,10 +31,10 @@ GT-GRN was developed and tested using the following environment:
 
 The required libraries can be installed using:
 
--pip install numpy==1.26.4
--pip install torch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2
--pip install dgl -f https://data.dgl.ai/wheels/repo.html
--pip install ogb
+- `pip install numpy==1.26.4`
+- `pip install torch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2`
+- `pip install dgl -f https://data.dgl.ai/wheels/repo.html`
+- `pip install ogb`
 
 
 ## Contact
